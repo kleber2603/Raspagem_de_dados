@@ -1,0 +1,30 @@
+ Nascidos vivos - São Paulo
+Nascim p/ocorrênc por Região Metropolitana - RIDE
+Período:2017
+"Região Metropolitana - RIDE";"Nascim_p/ocorrênc"
+"35010 São Paulo - SP";309894
+"35020 Baixada Santista - SP";24063
+"35030 Campinas - SP";40898
+"35041 V.Paraíba/Lit Nort 1 -SP";14862
+"35042 V.Paraíba/Lit Nort 2 -SP";8248
+"35043 V.Paraíba/Lit Nort 3 -SP";4453
+"35044 V.Paraíba/Lit Nort 4 -SP";1147
+"35045 V.Paraíba/Lit Nort 5 -SP";4714
+"35050 Jundiaí - SP";12279
+"35060 Piracicaba - SP";18060
+"35070 Sorocaba - SP";25786
+"35900 Fora de Reg.Metrop. - SP";148895
+"Total";613299
+ Fonte: MS/SVS/DASIS - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 
